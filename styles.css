@@ -41,12 +41,13 @@ body {
   text-decoration: none;
   font-weight: bold;
   font-size: 1rem;
+  padding: 5px;
 }
 
-.welcome {
-  padding: 2rem;
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
+nav a:hover, .contact-button:hover {
+  background-color: #2563EB;
+  transform: translateY(-3px);
+  border-radius: 20px;
 }
 
 .welcome h1 {
