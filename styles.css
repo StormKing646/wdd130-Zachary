@@ -132,3 +132,24 @@ nav a:hover, .contact-button:hover {
   margin-top: 1rem;
   font-weight: bold;
 }
+
+
+/*CSS for services.html ONLY*/
+
+/* #services-main {
+  display: grid;
+  grid-template-columns: 1;
+  grid-template-rows: auto;
+} */
+
+#dashboard {
+  grid-row: 1/2;
+  grid-column: 1/2;
+}
+
+/* #dashboard img {
+  width: 200px;
+  height: 200px;
+} */
+
+/*CSS for about page ONLY*/
